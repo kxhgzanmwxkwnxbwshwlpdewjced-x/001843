@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O2020-00184</string>
+    <string name="bton_initi_play">Jugar</string>
+    <string name="boton_initi_quit">Salir</string>
+    <string name="boton_juego_reiniciar">Jugar</string>
+    <string name="boton_juego_quit">Salir</string>
+    <string name="puntuacion_text">Scord:</string>
+</resources>
